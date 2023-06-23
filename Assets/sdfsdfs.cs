@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class sdfsdfs : MonoBehaviour
 {
+    int i;
     // Start is called before the first frame update
     void Start()
     {
